@@ -1,2 +1,2 @@
 # hello-world-static-webapp
-Hello World Website
+Hello World Website für die Erstellung einer Cloud Infrastruktur
